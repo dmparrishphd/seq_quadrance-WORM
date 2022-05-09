@@ -1,0 +1,12 @@
+Package: pkg_36a492a3-623e-4798-b530-2c799cdf4e3c
+Type: Package
+Title: Point-to-point Quadrance
+Version: 0.0-0
+Date: 2022-05-09
+Author: D. Michael Parrish [aut]
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Compute quadrances between successive points.
+        This file is
+    URN:UUID:36a492a3-623e-4798-b530-2c799cdf4e3c#DESCRIPTION
+License: AGPL-3
+Encoding: UTF-8

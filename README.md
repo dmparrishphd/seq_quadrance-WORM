@@ -1,2 +1,1 @@
-# seq_quadrance-WORM
-Compute quadrances between successive points
+[README](https://github.com/dmparrishphd/seq_quadrance-WORM#readme).

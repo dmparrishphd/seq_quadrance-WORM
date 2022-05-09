@@ -1,1 +1,1 @@
-[README](https://github.com/dmparrishphd/seq_quadrance-WORM#readme).
+[README](https://github.com/dmparrishphd/seq_quadrance-CORW#readme).
